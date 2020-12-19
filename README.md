@@ -1,2 +1,2 @@
 # linear-regression
-linear regression in R language
+Different linear regression's problems and the provided solution (predicted values) will be updated using R
